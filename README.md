@@ -3,6 +3,8 @@ Individual contributor, Cloud Architect with extensive experience in large-scale
 for many highly competitive clients for them consistently delivering in a very challenging and a dynamic environment under tight deadlines and stringent delivery quality considerations.
 Strong exposure to Big-data landscape, Cloud Innovation/Migration, Graph technologies ,market insights and technology trends.
 - 📫 How to reach me ...
+- https://me-learning123.blogspot.com/
+- 
 
 <!---
 AJTRAJ/AJTRAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
