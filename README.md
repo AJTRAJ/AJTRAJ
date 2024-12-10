@@ -4,6 +4,7 @@ for many highly competitive clients for them consistently delivering in a very c
 Strong exposure to Big-data landscape, Cloud Innovation/Migration, Graph technologies ,market insights and technology trends.
 - 📫 How to reach me ...
 - https://me-learning123.blogspot.com/
+- https://academy.langchain.com/wx1y9
 - 
 
 <!---
